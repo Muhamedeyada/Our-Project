@@ -1,4 +1,1 @@
-array.forEach((element) => {
-  lol;
-  looooooooooooooooooooool
-});
+fork edit
